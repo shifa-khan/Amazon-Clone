@@ -4,6 +4,22 @@
     border: border-box;
 }
 
+/* Desktop styles */
+@media screen and (min-width: 1024px) {
+    /* Styles for large screens */
+}
+
+/* Tablet styles */
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    /* Styles for medium-sized screens */
+}
+
+/* Mobile styles */
+@media screen and (max-width: 767px) {
+    /* Styles for small screens */
+}
+
+
 .navbar{
     
     height: 60px;
